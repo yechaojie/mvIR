@@ -7,7 +7,7 @@ Chaojie Ye, Chun Dou, Dong Liu, Lijie Kong, Mingling Chen, Min Xu, Yu Xu, Mian L
 ## Requirements
 [**R**](https://www.r-project.org/)
 - R packages: TwoSampleMR (version 0.5.7), MVMR (version 0.4), MRPRESSO (version 1.0), and MRlap (version 0.0.3.0).
-- 
+
 [**Python**](https://www.python.org/downloads/)
 
 [**Plink**](https://zzz.bwh.harvard.edu/plink/)
