@@ -1,7 +1,7 @@
 # mvGWAS_Insulin.Resistance_Cardiometabolic.Health
 This repository contains code and data necessary to replicate the findings of the paper:
 
-Chaojie Ye, Chun Dou, Dong Liu, Lijie Kong, Mingling Chen, Min Xu, Yu Xu, Mian Li, Zhiyun Zhao, Jie Zheng, Jieli Lu, Yuhong Chen, Guang Ning, Weiqing Wang, Yufang Bi, Tiange Wang. [Multivariate genome-wide analyses of insulin resistance unravel novel loci and therapeutic targets for cardiometabolic health](https://www.nature.com/articles/s41562-024-01905-9). *Nature communications*. 2025.
+Chaojie Ye, Chun Dou, Dong Liu, Lijie Kong, Mingling Chen, Min Xu, Yu Xu, Mian Li, Zhiyun Zhao, Jie Zheng, Jieli Lu, Yuhong Chen, Guang Ning, Weiqing Wang, Yufang Bi, Tiange Wang. [Multivariate genome-wide analyses of insulin resistance unravel novel loci and therapeutic targets for cardiometabolic health](https://www.nature.com/articles/s41467-025-64985-9). *Nature communications*. 2025.
 
 ## Requirements
 [**R**](https://www.r-project.org/)
